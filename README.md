@@ -41,11 +41,6 @@ JWT_SECRET=seu_token
 
 ```
 
-### 🏗️ Rodar Migrations
-```sh
- npm run migration:run
-```
-
 ### ▶️ Executar o Servidor
 ```sh
  npm run start
